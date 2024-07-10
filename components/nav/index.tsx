@@ -3,6 +3,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
+import Image from "next/image";
+import logo from "./../../public/logo.png";
 
 const Nav = () => {
   const [nav, setNav] = useState(false);
@@ -37,17 +39,15 @@ const Nav = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed nav">
-      <div>
-        <h1 className="text-5xl font-signature ml-2">
-          <Link
-            className="link-underline link-underline-black"
-            href="/"
-            rel="noreferrer"
-          >
-            Logo
-          </Link>
-        </h1>
+    <div className="flex justify-between items-center w-full h-20 px-20 text-white bg-black fixed nav">
+      <div className="max-w-20 px-2">
+        <Link
+          className="link-underline link-underline-black"
+          href="/"
+          rel="noreferrer"
+        >
+          <Image src={logo} objectFit="cover" alt="Logo" />
+        </Link>
       </div>
 
       <ul className="hidden md:flex">
