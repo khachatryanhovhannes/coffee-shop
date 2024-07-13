@@ -16,14 +16,16 @@ function HomeThirdSection() {
           style={{ backgroundColor: "rgba(0, 0, 0, 0.85)" }}
         >
           <h2 className="text-4xl font-bold mb-8">Join Our Community</h2>
-          <p className="text-lg mb-6">
-            At Coffee Shop, we&lsquo;re more than just a coffee company.
-            We&lsquo;re a community of coffee lovers, united by our passion for
-            great coffee and our commitment to making a positive impact. Follow
-            us on social media, subscribe to our newsletter, and become part of
-            the Coffee Shop family.
+          <h3 className="text-2xl">SipSpot ,more than a café.</h3>
+          <p className="text-lg mt-4">
+            Community of coffee lovers, united by our love for exceptional
+            coffee and shared experiences.
           </p>
-          <div className="flex justify-center space-x-4">
+          <p>
+            Connect with us on social media, subscribe to our newsletter. Life
+            begins after coffee, steep and sip.
+          </p>
+          <div className="flex justify-center space-x-4 mt-4">
             <Link href="#">
               <div className="btn-primary">Subscribe</div>
             </Link>

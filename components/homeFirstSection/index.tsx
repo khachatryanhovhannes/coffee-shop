@@ -16,12 +16,11 @@ function HomeFistSection() {
         }}
       >
         <h1 className="text-6xl font-bold my-8">
-          <span className="">Welcome to Coffee Shop</span>
+          <span className="">Welcome to SipSpot Café!</span>
         </h1>
         <p className={"text-4xl mb-8 max-w-2xl"}>
           <span className={jura.className}>
-            At Coffee Shop, we believe that every great day starts with a
-            perfect cup of coffee.
+            SipSpot Café, awaken your senses with every sip of coffee
           </span>
         </p>
         <Link href="/our-coffee">
