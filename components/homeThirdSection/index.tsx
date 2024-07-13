@@ -16,7 +16,9 @@ function HomeThirdSection() {
           style={{ backgroundColor: "rgba(0, 0, 0, 0.85)" }}
         >
           <h2 className="text-4xl font-bold mb-8">Join Our Community</h2>
-          <h3 className="text-2xl">SipSpot ,more than a café.</h3>
+          <h3 className="text-2xl">
+            <span className="text-yellow-400">SipSpot</span> ,more than a café.
+          </h3>
           <p className="text-lg mt-4">
             Community of coffee lovers, united by our love for exceptional
             coffee and shared experiences.
@@ -26,11 +28,15 @@ function HomeThirdSection() {
             begins after coffee, steep and sip.
           </p>
           <div className="flex justify-center space-x-4 mt-4">
-            <Link href="#">
-              <div className="btn-primary">Subscribe</div>
+            <Link href="/">
+              <div className="btn-primary">
+                <span className="text-yellow-400">Subscribe</span>
+              </div>
             </Link>
-            <Link href="#">
-              <div className="btn-secondary">Contact Us</div>
+            <Link href="/contact-us">
+              <div className="btn-secondary">
+                <span className="text-yellow-400">Contact Us</span>
+              </div>
             </Link>
           </div>
         </div>

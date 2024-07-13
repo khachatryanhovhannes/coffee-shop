@@ -7,7 +7,7 @@ function HomeSecondSection() {
   return (
     <section className="about min-h-screen  bg-black flex justify-center items-center">
       <div className="max-w-screen mx-auto text-center">
-        <h2 className="text-4xl font-bold">Why Choose SipSpot Café?</h2>
+        <h2 className="text-4xl font-bold">Why Choose <span className="text-yellow-400">SipSpot</span> Café?</h2>
         <div className="flex flex-wrap justify-center mt-10 gap-6">
           <div className="p-4 max-w-sm">
             <div className="flex rounded-lg h-full bg-gray-800 p-8 flex-col">

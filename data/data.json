@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "name": "Flat White",
+    "description": "A flat white is a coffee drink that originated in Australia and New Zealand and has gained popularity worldwide. It is similar to a latte but has a higher ratio of coffee to milk, making it stronger and less milky. The flat white is made with a shot of espresso and steamed milk, with a thin layer of microfoam on top. This microfoam is created by steaming the milk to a creamy consistency, which blends seamlessly with the espresso, resulting in a velvety texture. The flat white’s flavor is robust, allowing the rich espresso to shine through while being mellowed by the creamy milk. It’s a favorite for those who enjoy a strong coffee taste but still appreciate the smoothness of milk. The flat white is typically served in a smaller cup than a latte, emphasizing its concentrated coffee flavor. The drink’s simplicity and elegance make it a staple in many specialty coffee shops.",
+    "price": 3.75,
+    "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/flat-white-d8ada0f.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Macchiato",
+    "description": "A macchiato, which means 'stained' or 'spotted' in Italian, is a simple yet powerful coffee drink. It is made by adding a small amount of milk or milk foam to a shot of espresso. The traditional espresso macchiato features a shot of espresso 'stained' with a dollop of frothy milk, creating a perfect balance between the intense coffee and the slight creaminess of the milk. This drink is ideal for those who enjoy the bold taste of espresso but want a touch of softness. The macchiato allows the natural flavors of the coffee beans to come through, making it a popular choice for coffee purists. Additionally, the caramel macchiato, a variation of the traditional macchiato, has become a favorite in many coffee shops. It includes vanilla syrup, steamed milk, espresso, and a caramel drizzle on top. This version is sweeter and richer, catering to those who prefer a dessert-like coffee experience. Whether you opt for the classic espresso macchiato or the indulgent caramel macchiato, this drink offers a delightful coffee experience that highlights the beauty of simplicity.",
+    "price": 3.25,
+    "image_url": "https://roastercoffees.com/wp-content/uploads/2021/05/Espresso-Macchiato-Recipe.webp"
+  },
+  {
+    "id": 3,
+    "name": "Irish Coffee",
+    "description": "Irish coffee is a decadent coffee cocktail that combines hot coffee, Irish whiskey, sugar, and a layer of cream on top. This drink is not only delicious but also has an interesting history. It was created in the 1940s by a chef named Joe Sheridan at the Foynes Airport in Ireland. The story goes that he wanted to create a warming drink for passengers arriving from transatlantic flights. Irish coffee became an instant hit and eventually made its way to the United States, where it gained even more popularity. The drink is typically made by combining freshly brewed coffee with a shot of Irish whiskey and a teaspoon of brown sugar, which adds a rich sweetness. The mixture is stirred until the sugar dissolves, and then a layer of lightly whipped cream is carefully poured over the back of a spoon to float on top. The result is a beautifully layered drink with a rich, warming flavor. The hot coffee and whiskey provide a comforting warmth, while the cream adds a smooth, velvety texture. Irish coffee is often enjoyed as a dessert or after-dinner drink, offering a perfect blend of coffee and whiskey flavors. It’s a delightful treat for those who enjoy a bit of indulgence with their coffee.",
+    "price": 6.99,
+    "image_url": "https://www.thespruceeats.com/thmb/BaTQiJBdsmkbQvBZO6HaoeBoNgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/original-irish-coffee-recipe-759311-Hero-5b759d4b46e0fb005089915e.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Affogato",
+    "description": "The affogato is a delightful Italian dessert that beautifully combines the rich flavors of coffee and ice cream. The name 'affogato' means 'drowned' in Italian, referring to the way a scoop of vanilla gelato or ice cream is drowned with a shot of hot espresso. This simple yet luxurious dessert is a perfect way to end a meal or enjoy as a mid-afternoon treat. The hot espresso melts the ice cream slightly, creating a creamy, coffee-infused dessert that is both refreshing and indulgent. The contrast between the hot espresso and the cold ice cream creates a wonderful balance of temperatures and textures. As the ice cream melts, it mixes with the espresso to create a rich and creamy coffee sauce that is simply irresistible. Some variations of the affogato include a splash of liqueur, such as amaretto or Frangelico, adding an extra layer of flavor and indulgence. The affogato is not only delicious but also incredibly easy to make, making it a favorite for coffee lovers and dessert enthusiasts alike. It’s a perfect blend of two beloved treats, offering a delightful and satisfying experience with every bite.",
+    "price": 5.5,
+    "image_url": "https://www.thespruceeats.com/thmb/5PcCBEaUd1U1eFxfcKKPLVnZzfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/affogato-4776668-hero-08-40d7a68d12ba46f48eaea3c43aba715c.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cortado",
+    "description": "A cortado is a popular espresso-based drink that originated in Spain. The name 'cortado' comes from the Spanish word 'cortar,' which means 'to cut.' This refers to the way the espresso is 'cut' with an equal amount of steamed milk to reduce its acidity and intensity. The result is a balanced coffee drink that is smooth and rich, with a creamy texture and a harmonious flavor. The cortado is typically served in a small glass, showcasing its beautiful layers. The equal parts of espresso and milk create a delightful balance, making it a perfect choice for those who find a straight espresso too strong but a latte too milky. The cortado's simplicity and elegance have made it a favorite in many specialty coffee shops. It’s a versatile drink that can be enjoyed any time of day, offering a satisfying coffee experience that highlights the natural flavors of the coffee beans while adding a touch of creaminess. Whether enjoyed in the morning as a pick-me-up or in the afternoon as a relaxing treat, the cortado is a delightful coffee drink that offers a perfect balance of flavors and textures.",
+    "price": 3.5,
+    "image_url": "https://methodicalcoffee.com/cdn/shop/articles/cortado.jpg?v=1701124707"
+  },
+  {
+    
+    "id": 6,
+    "name": "Cold Brew",
+    "description": "Cold brew coffee is a popular and refreshing way to enjoy coffee, especially during the warmer months. Unlike traditional iced coffee, which is brewed hot and then cooled, cold brew is made by steeping coarsely ground coffee beans in cold water for an extended period, usually 12 to 24 hours. This slow extraction process results in a smooth, rich, and less acidic coffee concentrate that can be enjoyed over ice or diluted with water or milk. Cold brew coffee has a naturally sweet and mellow flavor, making it a favorite among coffee enthusiasts who prefer a milder and smoother coffee experience. The long steeping time allows the coffee to develop complex flavors, highlighting the natural sweetness and nuances of the beans. Cold brew is also incredibly versatile and can be customized with various flavors, such as vanilla, caramel, or chocolate. It can be enjoyed black, with a splash of milk or cream, or even mixed with a bit of sweetener. The refreshing and invigorating nature of cold brew coffee makes it a perfect choice for a hot day or a refreshing afternoon pick-me-up. Its smooth and rich flavor, combined with its versatility, has made cold brew a staple in many coffee shops and a favorite among coffee lovers.",
+    "price": 4.0,
+    "image_url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F9eada0d203bfb580d801b478edd553465c7afb52"
+  },
+  {
+    
+    "id": 7,
+    "name": "Nitro Cold Brew",
+    "description": "Nitro cold brew is a modern and innovative twist on traditional cold brew coffee. It is made by infusing cold brew coffee with nitrogen gas, which gives it a creamy, velvety texture and a rich, frothy head similar to a draft beer. The nitrogen infusion enhances the natural sweetness of the cold brew, resulting in a smooth and slightly effervescent coffee drink. Nitro cold brew is typically served on tap and poured into a glass, creating a visually appealing and unique coffee experience. The nitrogen bubbles create a cascading effect as they settle, forming a thick, creamy head on top of the coffee. This adds a luxurious mouthfeel and a slight natural sweetness that makes it a delightful treat. Nitro cold brew is often enjoyed without any additional sweeteners or cream, as the nitrogen infusion brings out the natural flavors of the coffee beans. It’s a refreshing and invigorating way to enjoy cold brew, offering a unique and indulgent coffee experience. Nitro cold brew has become a popular choice in many coffee shops, providing a sophisticated and modern take on traditional cold brew coffee. Its creamy texture, rich flavor, and visual appeal make it a favorite among coffee enthusiasts looking for a new and exciting way to enjoy their coffee.",
+    "price": 5.0,
+    "image_url": "https://img.apmcdn.org/38c6e3e55780435148fc5329497e7d0d17b471b2/uncropped/a80457-splendid-table-nitro-cold-brew-coffee-c-bhofack2-istock-gettyimagesplus-641501174-lede.jpg"
+  },
+  {
+    
+    "id": 8,
+    "name": "Iced Latte",
+    "description": "An iced latte is a refreshing and delicious coffee drink that is perfect for hot summer days. It is made by combining a shot of espresso with chilled milk and ice, creating a smooth and creamy coffee beverage that is both satisfying and invigorating. The iced latte is a popular choice for those who enjoy the rich flavor of espresso but prefer a cooler and lighter coffee drink. The espresso provides a robust and bold coffee flavor, while the cold milk adds a creamy texture and balances the intensity of the coffee. Iced lattes can be customized with various flavors, such as vanilla, caramel, or hazelnut, making them a versatile and delightful treat. They can be sweetened to taste and topped with whipped cream or a drizzle of flavored syrup for added indulgence. The iced latte is a perfect choice for a mid-afternoon pick-me-up or a refreshing treat on a hot day. Its combination of bold espresso and creamy milk, served over ice, makes it a delightful and satisfying coffee drink that is sure to please any coffee lover.",
+    "price": 4.25,
+    "image_url": "https://www.breville.com/content/dam/coffeehub/language-masters/en/recipes/recipe-hero-stills/Recipes_Banner8_1200x1200_IcedLatte.jpeg"
+  },
+  {
+    
+    "id": 9,
+    "name": "Frappuccino",
+    "description": "A Frappuccino is a popular blended coffee drink that combines the flavors of coffee, milk, and ice, creating a delicious and refreshing beverage that is perfect for any time of day. It is typically made with a shot of espresso or strong brewed coffee, blended with milk, ice, and a sweetener, and often topped with whipped cream and flavored syrups. The Frappuccino is known for its smooth and creamy texture, making it a favorite among coffee lovers who enjoy a cold and indulgent treat. There are many variations of the Frappuccino, with flavors ranging from classic coffee and mocha to more adventurous options like caramel, vanilla, and even seasonal flavors such as pumpkin spice or peppermint. The versatility of the Frappuccino makes it a popular choice in many coffee shops, offering a delightful and satisfying coffee experience for those who enjoy a sweet and refreshing beverage. Whether enjoyed as a mid-morning treat or an afternoon pick-me-up, the Frappuccino is a delicious and indulgent coffee drink that is sure to please any coffee enthusiast.",
+    "price": 5.5,
+    "image_url": "https://www.allrecipes.com/thmb/cb1Zf7kTp5QkiMA0GBj8ppsrZx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235850-starbucks-caramel-frappuccino-copycat-recipe-DDMFS-4x3-227a1e47f46643dcb4708e775a250bca.jpg"
+  },
+  {
+    
+    "id": 10,
+    "name": "Vietnamese Iced Coffee",
+    "description": "Vietnamese iced coffee, or 'cà phê sữa đá,' is a traditional and beloved coffee drink from Vietnam that is known for its strong and bold flavor, combined with the sweet creaminess of condensed milk. It is made by brewing coarsely ground dark roast coffee with a small metal drip filter, known as a 'phin,' directly into a glass containing sweetened condensed milk. Once the coffee has dripped through the filter, it is stirred to combine the rich, robust coffee with the thick and sweet condensed milk. The mixture is then poured over a glass full of ice, creating a refreshing and invigorating coffee drink. Vietnamese iced coffee is known for its intense and full-bodied flavor, with a perfect balance of bitterness and sweetness. The use of condensed milk adds a creamy and indulgent texture, making each sip a delightful experience. This coffee drink is often enjoyed as a morning pick-me-up or an afternoon treat, providing a burst of energy and a satisfying coffee experience. Vietnamese iced coffee is a favorite among coffee lovers who appreciate strong and flavorful coffee, combined with the unique sweetness and creaminess of condensed milk. It’s a delicious and refreshing way to enjoy coffee, offering a taste of Vietnam’s rich coffee culture.",
+    "price": 4.75,
+    "image_url": "https://img.taste.com.au/UHFv39Ks/taste/2020/05/jun20_vietnamese-iced-coffee-161761-1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Matcha Latte",
+    "description": "A matcha latte is a vibrant and healthy alternative to traditional coffee drinks, made with finely ground green tea powder, known as matcha, and steamed milk. Matcha is a high-quality green tea that has been used in Japanese tea ceremonies for centuries and is known for its bright green color, unique flavor, and numerous health benefits. A matcha latte combines the rich and earthy taste of matcha with the creamy texture of milk, creating a delicious and satisfying beverage. The matcha powder is whisked with a small amount of hot water to create a smooth paste, which is then mixed with steamed milk and sweetened to taste. The result is a beautifully green latte with a smooth and creamy texture and a slightly sweet, slightly bitter flavor that is both refreshing and invigorating. Matcha lattes can be enjoyed hot or iced, making them a versatile and delightful drink for any time of year. They are a popular choice among health-conscious individuals who appreciate the natural energy boost and antioxidants that matcha provides. Whether enjoyed as a morning pick-me-up or a calming afternoon treat, a matcha latte offers a unique and delicious way to enjoy the benefits of green tea.",
+    "price": 4.5,
+    "image_url": "https://www.foodandwine.com/thmb/2tI8aL1Z8hKhfV48_c8b6uWG-TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Iced-Matcha-Latte-FT-RECIPE0622-2000-9c2e116d3bc54bdaacda10e62e8e0205.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Chai Latte",
+    "description": "A chai latte is a warm and comforting beverage that combines the bold and aromatic flavors of chai tea with the creamy texture of steamed milk. Chai tea is a traditional Indian beverage made by brewing black tea with a blend of spices such as cinnamon, cardamom, ginger, cloves, and black pepper. This spicy and flavorful tea is then mixed with steamed milk and sweetened to taste, creating a delicious and soothing drink that is perfect for any time of day. The chai latte is known for its rich and complex flavor profile, with the spices providing a warm and aromatic taste that is both invigorating and calming. The steamed milk adds a creamy texture and balances the bold flavors of the chai, making each sip a delightful experience. Chai lattes can be enjoyed hot or iced, and they are often topped with a sprinkle of cinnamon or nutmeg for added flavor and visual appeal. This drink is a favorite among tea and coffee lovers alike, offering a unique and flavorful alternative to traditional coffee beverages. Whether enjoyed as a morning treat or an afternoon pick-me-up, a chai latte provides a comforting and satisfying experience that is sure to please.",
+    "price": 4.75,
+    "image_url": "https://www.evolvingtable.com/wp-content/uploads/2023/08/chai-tea-latte-19-500x500.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dirty Chai Latte",
+    "description": "A dirty chai latte is a delightful and unique beverage that combines the rich and aromatic flavors of chai tea with the bold and robust taste of espresso. This drink is made by adding a shot of espresso to a traditional chai latte, creating a delicious fusion of tea and coffee. The result is a flavorful and invigorating beverage that is perfect for those who enjoy the best of both worlds. The dirty chai latte begins with chai tea, which is brewed with a blend of spices such as cinnamon, cardamom, ginger, cloves, and black pepper. This spicy and aromatic tea is then mixed with steamed milk and sweetened to taste, creating a creamy and comforting chai latte. The addition of a shot of espresso adds a bold coffee flavor, enhancing the complexity and richness of the drink. The dirty chai latte is known for its unique and harmonious blend of flavors, with the spices of the chai tea complementing the robustness of the espresso. This drink can be enjoyed hot or iced, and it is often topped with a sprinkle of cinnamon or nutmeg for added flavor and visual appeal. The dirty chai latte is a popular choice among coffee and tea lovers alike, offering a delicious and satisfying beverage that is perfect for any time of day. Whether enjoyed as a morning pick-me-up or an afternoon treat, a dirty chai latte provides a delightful and invigorating experience that is sure to please.",
+    "price": 5.0,
+    "image_url": "https://thehealthfulideas.com/wp-content/uploads/2022/03/Iced-Dirty-Chai-Latte-SQUARE.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Caramel Macchiato",
+    "description": "A caramel macchiato is a popular and indulgent coffee drink that combines the rich and bold flavors of espresso with the sweet and creamy taste of caramel and steamed milk. This delicious beverage is made by layering vanilla syrup, steamed milk, and a shot of espresso, and then topping it with a drizzle of caramel sauce. The result is a beautifully layered and visually appealing drink that is both satisfying and delightful. The caramel macchiato begins with a base of vanilla syrup, which adds a subtle sweetness and enhances the overall flavor of the drink. Steamed milk is then added, creating a smooth and creamy texture that balances the intensity of the espresso. A shot of espresso is carefully poured over the milk, creating a distinct layer of coffee that adds a rich and robust flavor. Finally, a generous drizzle of caramel sauce is added on top, providing a sweet and indulgent finish. The caramel macchiato is known for its harmonious blend of flavors, with the sweetness of the caramel and vanilla complementing the boldness of the espresso. This drink can be enjoyed hot or iced, making it a versatile and delightful treat for any time of year. Whether enjoyed as a morning pick-me-up or an afternoon indulgence, a caramel macchiato offers a delicious and satisfying coffee experience that is sure to please any coffee lover.",
+    "price": 5.25,
+    "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2023/06/Caramel-macchiato-03873ef.jpg?quality=90&resize=556,505"
+  },
+  {
+    "id": 15,
+    "name": "Café au Lait",
+    "description": "A café au lait is a classic and elegant coffee drink that combines equal parts of brewed coffee and steamed milk, creating a smooth and creamy beverage that is perfect for any time of day. The name 'café au lait' comes from the French language and translates to 'coffee with milk.' This simple yet delicious drink is known for its balanced flavor and creamy texture, making it a favorite among coffee lovers who enjoy a milder and more mellow coffee experience. The café au lait begins with freshly brewed coffee, which can be made using a drip coffee maker, French press, or any other preferred brewing method. The brewed coffee is then combined with an equal amount of steamed milk, creating a rich and creamy blend that highlights the natural flavors of the coffee beans. The steamed milk adds a smooth and velvety texture, balancing the intensity of the coffee and creating a harmonious and satisfying drink. The café au lait is often enjoyed in the morning as a comforting and invigorating start to the day, but it can also be enjoyed any time as a relaxing and soothing treat. This classic coffee drink is a staple in many coffee shops and a favorite among coffee enthusiasts who appreciate the simplicity and elegance of a well-made café au lait. Whether enjoyed with breakfast or as an afternoon pick-me-up, a café au lait offers a delightful and satisfying coffee experience that is sure to please.",
+    "price": 3.75,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6_BvjbPq4PH18XX2YQj8ISIvFK-cEmG3aA&sg"
+  },
+  {
+    "id": 16,
+    "name": "Espresso Con Panna",
+    "description": "Espresso con panna, which means 'espresso with cream' in Italian, is a simple yet indulgent coffee drink that combines the rich and intense flavor of espresso with a dollop of whipped cream. This delicious and elegant beverage is perfect for those who enjoy the bold taste of espresso but want a touch of sweetness and creaminess. The espresso con panna is made by pulling a shot of espresso and topping it with a generous spoonful of whipped cream. The result is a beautifully layered drink with a rich and robust espresso base and a smooth and creamy topping. The whipped cream adds a delightful sweetness and a velvety texture, making each sip a luxurious and satisfying experience. The espresso con panna is often enjoyed as an after-dinner treat or a mid-afternoon pick-me-up, offering a perfect balance of bold coffee flavor and creamy indulgence. This drink is a favorite among coffee lovers who appreciate the simplicity and elegance of a well-made espresso con panna. Whether enjoyed on its own or paired with a sweet treat, an espresso con panna offers a delightful and satisfying coffee experience that is sure to please.",
+    "price": 3.5,
+    "image_url": "https://www.seriouseats.com/thmb/Hde3omiT3bIcuTA10075vlnFXHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__drinks.seriouseats.com__images__2011__08__20110825-con-panna-610-4f5740cf9765459281c899e69cf56964.jpg"
+  },
+  {
+    
+    "id": 17,
+    "name": "Pumpkin Spice Latte",
+    "description": "A pumpkin spice latte is a popular seasonal coffee drink that combines the rich and bold flavors of espresso with the warm and aromatic spices of pumpkin pie, creating a delicious and comforting beverage that is perfect for the fall season. This beloved drink is made by combining a shot of espresso with steamed milk, pumpkin spice syrup, and a blend of spices such as cinnamon, nutmeg, and cloves. The result is a smooth and creamy coffee drink with a delightful balance of coffee and pumpkin spice flavors. The pumpkin spice latte begins with a shot of espresso, which provides a robust and bold coffee flavor. Pumpkin spice syrup is then added, creating a sweet and flavorful base that complements the intensity of the espresso. Steamed milk is added to the mixture, creating a smooth and creamy texture that balances the flavors and adds a touch of indulgence. The pumpkin spice latte is often topped with a layer of whipped cream and a sprinkle of pumpkin spice for added flavor and visual appeal. This drink is a favorite among coffee lovers who appreciate the warm and comforting flavors of pumpkin spice, making it a perfect treat for the fall season. Whether enjoyed as a morning pick-me-up or an afternoon indulgence, a pumpkin spice latte offers a delicious and satisfying coffee experience that is sure to please.",
+    "price": 5.25,
+    "image_url": "https://healthyfoodiegirl.com/wp-content/uploads/2022/10/Homemade-Pumpkin-Spice-Latte-Recipe.jpg"
+  },
+  {
+    "id": 18,
+    "name": "White Chocolate Mocha",
+    "description": "A white chocolate mocha is a luxurious and indulgent coffee drink that combines the rich and bold flavors of espresso with the sweet and creamy taste of white chocolate and steamed milk. This popular beverage is made by combining a shot of espresso with white chocolate syrup, and then adding steamed milk and a layer of milk foam on top. The result is a smooth and creamy coffee drink with a delightful balance of coffee and white chocolate flavors. The white chocolate mocha begins with a shot of espresso, which provides a robust and bold coffee flavor. White chocolate syrup is then added, creating a sweet and flavorful base that complements the intensity of the espresso. Steamed milk is added to the mixture, creating a smooth and creamy texture that balances the flavors and adds a touch of indulgence. The white chocolate mocha is often topped with a layer of milk foam and a drizzle of white chocolate syrup for added flavor and visual appeal. This drink can be enjoyed hot or iced, making it a versatile and delightful treat for any time of year. Whether enjoyed as a morning pick-me-up or an afternoon indulgence, a white chocolate mocha offers a delicious and satisfying coffee experience that is sure to please any coffee lover.",
+    "price": 5.0,
+    "image_url": "https://www.littlesugarsnaps.com/wp-content/uploads/2022/01/white-chocolate-mocha-square.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Toffee Nut Latte",
+    "description": "A toffee nut latte is a delicious and indulgent coffee drink that combines the rich and bold flavors of espresso with the sweet and nutty taste of toffee nut syrup and steamed milk. This popular beverage is made by combining a shot of espresso with toffee nut syrup, and then adding steamed milk and a layer of milk foam on top. The result is a smooth and creamy coffee drink with a delightful balance of coffee and toffee nut flavors. The toffee nut latte begins with a shot of espresso, which provides a robust and bold coffee flavor. Toffee nut syrup is then added, creating a sweet and flavorful base that complements the intensity of the espresso. Steamed milk is added to the mixture, creating a smooth and creamy texture that balances the flavors and adds a touch of indulgence. The toffee nut latte is often topped with a layer of milk foam and a sprinkle of toffee nut pieces for added flavor and visual appeal. This drink can be enjoyed hot or iced, making it a versatile and delightful treat for any time of year. Whether enjoyed as a morning pick-me-up or an afternoon indulgence, a toffee nut latte offers a delicious and satisfying coffee experience that is sure to please any coffee lover.",
+    "price": 5.25,
+    "image_url": "https://bigfamilyblessings.com/wp-content/uploads/2018/02/2018-02-06_0023.jpg"
+  }
+]
