@@ -37,11 +37,11 @@ export default function RootLayout({
             property="og:description"
             content="At SipSpot Café, we believe that every great day starts with a perfect cup of coffee."
           />
-          <meta property="og:image" content="https://i.pinimg.com/originals/71/1b/3e/711b3edbd2d17734549705a2a54a7d50.jpg" />
           <meta
-            property="og:url"
-            content="https://coffee-shop-h.netlify.app/"
+            property="og:image"
+            content="https://i.pinimg.com/originals/71/1b/3e/711b3edbd2d17734549705a2a54a7d50.jpg"
           />
+          <meta property="og:url" content="https://sipspot-cafe.netlify.app/" />
         </Head>
       </Head>
       <body className={urbanist.className}>
