@@ -39,7 +39,7 @@ const Nav = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-20 text-white bg-black nav">
+    <div className="px-1 md:px-20 flex justify-between items-center w-full h-20 text-white bg-black nav">
       <div className="max-w-20 px-2">
         <Link
           className="link-underline link-underline-black"

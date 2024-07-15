@@ -1,27 +1,35 @@
 import Link from "next/link";
 import React from "react";
 
-function OurCoffe() {
+function OurCoffee() {
   return (
-    <div className="bg-black text-white">
-      {/* Our Coffee Section */}
-      <section className="py-16 px-4">
-        <div className="max-w-6xl mx-auto text-center">
-          <h1 className="text-5xl font-bold mb-8">Our Coffee</h1>
-          <p className="text-xl max-w-3xl mx-auto">
-            At [Coffee Brand Name], we believe that great coffee starts with
-            great beans. Our dedication to quality, sustainability, and
-            craftsmanship is reflected in every cup. Explore our range of
-            expertly curated coffee blends, each designed to bring out the best
-            in every bean.
-          </p>
+    <div className="bg-black  text-white">
+      <section className=" min-h-screen bg-center bg-cover bg-[url('https://scx2.b-cdn.net/gfx/news/hires/2018/coffee.jpg')]">
+        <div
+          style={{
+            background:
+              "linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0.8))",
+            width: "100%",
+          }}
+          className="flex items-center min-h-screen px-4"
+        >
+          <div className="max-w-6xl mx-auto text-center">
+            <h1 className="text-5xl font-bold mb-8">Our Coffee</h1>
+            <p className="text-xl max-w-3xl mx-auto">
+              We believe that exceptional coffee starts with extraordinary
+              beans. Your favorite morning spot, where every sip feels like a
+              friendly hello.
+            </p>
+          </div>
         </div>
       </section>
 
       {/* Coffee Blends Section */}
-      <section className="py-16 bg-gray-900 px-4">
+      <section className="py-16 bg-black px-4 min-h-screen flex items-center">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-4xl font-bold mb-8 text-center">Coffee Blends</h2>
+          <h2 className="text-4xl font-bold mb-8 text-center">
+            Coffee Blends to Love
+          </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="blend bg-gray-800 p-6 rounded-lg">
               <h3 className="text-2xl font-bold mb-4">Signature Blend</h3>
@@ -55,33 +63,45 @@ function OurCoffe() {
         </div>
       </section>
 
-      {/* Sourcing Section */}
-      <section className="py-16 px-4">
-        <div className="max-w-6xl mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-8">Sourcing</h2>
-          <p className="text-xl max-w-3xl mx-auto mb-8">
-            We take pride in sourcing our coffee beans from the finest
-            coffee-growing regions around the world. Our relationships with
-            dedicated farmers ensure that we receive only the highest quality
-            beans, cultivated with care and commitment to sustainable practices.
-          </p>
-          <div className="space-y-4 text-lg">
-            <p>
-              Ethical Sourcing: We partner with farmers who prioritize
-              environmental stewardship and fair labor practices.
+      <section className=" min-h-screen bg-center bg-cover bg-[url('https://www.bwindiugandagorillatrekking.com/wp-content/uploads/2020/02/Arabica-Coffee-grown-in-Uganda.jpg')]">
+        <div
+          style={{
+            background:
+              "linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0.8))",
+            width: "100%",
+          }}
+          className="flex items-center min-h-screen px-4"
+        >
+          <div
+            className="max-w-6xl p-10 mx-auto text-center rounded-3xl"
+            style={{ backgroundColor: "rgba(0, 0, 0, 0.85)" }}
+          >
+            <h2 className="text-4xl font-bold mb-8">Sourcing</h2>
+            <p className="text-xl max-w-3xl mx-auto mb-8">
+              We take pride in sourcing our coffee beans from the finest
+              coffee-growing regions around the world. Our relationships with
+              dedicated farmers ensure that we receive only the highest quality
+              beans, cultivated with care and commitment to sustainable
+              practices.
             </p>
-            <p>
-              Sustainable Practices: Our commitment to sustainability extends
-              from the farm to your cup, supporting eco-friendly farming methods
-              and environmental conservation programs.
-            </p>
+            <div className="space-y-4 text-lg">
+              <p>
+                Ethical Sourcing: We partner with farmers who prioritize
+                environmental stewardship and fair labor practices.
+              </p>
+              <p>
+                Sustainable Practices: Our commitment to sustainability extends
+                from the farm to your cup, supporting eco-friendly farming
+                methods and environmental conservation programs.
+              </p>
+            </div>
           </div>
         </div>
       </section>
 
       {/* Roasting Process Section */}
-      <section className="py-16 bg-gray-900 px-4">
-        <div className="max-w-6xl mx-auto text-center">
+      <section className="py-16 bg-black px-4 flex-wrap gap-5 min-h-screen flex items-center justify-between md:px-10">
+        <div className="mx-auto text-center md:w-5/12">
           <h2 className="text-4xl font-bold mb-8">Roasting Process</h2>
           <p className="text-xl max-w-3xl mx-auto mb-8">
             Our artisan roasting process is key to unlocking the full potential
@@ -100,10 +120,15 @@ function OurCoffe() {
             </p>
           </div>
         </div>
+        <img
+          className="md:w-5/12"
+          src="https://stories.starbucks.com/uploads/2019/01/Starbucks_Coffee_Roast.jpg"
+          alt=""
+        />
       </section>
 
       {/* Brewing Recommendations Section */}
-      <section className="py-16 px-4">
+      <section className="py-16 px-4   min-h-screen flex items-center">
         <div className="max-w-6xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-8">Brewing Recommendations</h2>
           <div className="space-y-8 text-lg">
@@ -140,38 +165,35 @@ function OurCoffe() {
       </section>
 
       {/* Experience the Difference Section */}
-      <section className="py-16 bg-gray-900 px-4">
-        <div className="max-w-6xl mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-8">Experience the Difference</h2>
-          <p className="text-xl max-w-3xl mx-auto mb-8">
-            At [Coffee Brand Name], we’re passionate about delivering an
-            exceptional coffee experience. From the careful selection of our
-            beans to the meticulous roasting process, every step is designed to
-            create a coffee that you’ll love. Taste the difference that quality
-            and craftsmanship make—explore our range of coffee today.
-          </p>
-          <Link href="/shop">
-            <div className="btn-primary">Shop Our Coffee</div>
-          </Link>
-        </div>
-      </section>
-
-      {/* Stay Connected Section */}
-      <section className="py-16 px-4">
-        <div className="max-w-6xl mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-8">Stay Connected</h2>
-          <p className="text-xl max-w-3xl mx-auto mb-8">
-            Join our community of coffee lovers! Follow us on social media and
-            sign up for our newsletter to receive updates on new products,
-            special offers, and brewing tips.
-          </p>
-          <div className="flex justify-center space-x-4">
-            <Link href="/newsletter">
-              <div className="btn-primary">Subscribe</div>
-            </Link>
-            <Link href="/contact-us">
-              <div className="btn-secondary">Contact Us</div>
-            </Link>
+      <section className=" min-h-screen bg-center bg-cover bg-[url('https://cdn.shopify.com/s/files/1/1616/2815/files/coffee_flavors.jpg?v=1682498943')]">
+        <div
+          style={{
+            background:
+              "linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0.8))",
+            width: "100%",
+          }}
+          className="flex items-center min-h-screen px-4"
+        >
+          <div
+            className="max-w-6xl p-10 mx-auto text-center rounded-3xl"
+            style={{ backgroundColor: "rgba(0, 0, 0, 0.85)" }}
+          >
+            <div className="max-w-6xl mx-auto text-center">
+              <h2 className="text-4xl font-bold mb-8">
+                Experience the Difference
+              </h2>
+              <p className="text-xl max-w-3xl mx-auto mb-8">
+                At <span className="text-yellow-400">SipSpot</span>, we’re passionate about delivering an
+                exceptional coffee experience. From the careful selection of our
+                beans to the meticulous roasting process, every step is designed
+                to create a coffee that you’ll love. Taste the difference that
+                quality and craftsmanship make—explore our range of coffee
+                today.
+              </p>
+              <Link href="/shop">
+                <div className="btn-primary">Shop Our Coffee</div>
+              </Link>
+            </div>
           </div>
         </div>
       </section>
@@ -179,4 +201,4 @@ function OurCoffe() {
   );
 }
 
-export default OurCoffe;
+export default OurCoffee;

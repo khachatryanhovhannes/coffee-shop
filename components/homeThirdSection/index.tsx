@@ -23,10 +23,10 @@ function HomeThirdSection() {
             Community of coffee lovers, united by our love for exceptional
             coffee and shared experiences.
           </p>
-          <p>
-            Connect with us on social media, subscribe to our newsletter. Life
-            begins after coffee, steep and sip.
-          </p>
+          <p> Connect with us on social media, subscribe to our newsletter. </p>
+          <br />
+          <p>Life begins after coffee, steep and sip.</p>
+
           <div className="flex justify-center space-x-4 mt-4">
             <Link href="/">
               <div className="btn-primary">

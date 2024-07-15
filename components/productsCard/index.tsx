@@ -35,14 +35,9 @@ function ProductCard({
         </div>
         <div className="flex flex-col justify-between  flex-grow">
           <p className="text-center">{price} $</p>
-          <p className="leading-relaxed text-base text-white dark:text-gray-300">
-            {description.length < 100
-              ? description
-              : description.slice(0, 100) + "..."}
+          <p className="leading-relaxed text-base text-center text-white dark:text-gray-300">
+            {description}
           </p>
-          <Link href={"/products/" + id} className="mt-5">
-            Learn more...
-          </Link>
         </div>
       </div>
     </div>
