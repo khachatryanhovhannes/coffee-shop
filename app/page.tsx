@@ -9,7 +9,7 @@ import {
 export default function Home() {
   return (
     <div className="bg-black text-white">
-      <Image src={backImg} height={0} width={0} alt='primary' />
+      <Image src={backImg} height={0} width={0} alt='primary' style={{display:"none"}} />
       <HomeFistSection />
       <HomeSecondSection />
       <HomeThirdSection />
