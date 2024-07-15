@@ -183,14 +183,10 @@ function OurCoffee() {
                 Experience the Difference
               </h2>
               <p className="text-xl max-w-3xl mx-auto mb-8">
-                At <span className="text-yellow-400">SipSpot</span>, we’re passionate about delivering an
-                exceptional coffee experience. From the careful selection of our
-                beans to the meticulous roasting process, every step is designed
-                to create a coffee that you’ll love. Taste the difference that
-                quality and craftsmanship make—explore our range of coffee
-                today.
+                Crafted with heart and shared with love. We invite you to taste
+                the difference. Life is too short to drink bad coffee
               </p>
-              <Link href="/shop">
+              <Link href="/products">
                 <div className="btn-primary">Shop Our Coffee</div>
               </Link>
             </div>

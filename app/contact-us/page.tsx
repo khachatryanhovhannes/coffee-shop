@@ -24,12 +24,11 @@ function ContactUs() {
   return (
     <div>
       <h1 className="text-4xl font-bold mb-8 text-white text-center">
-        Contact Us
+        Get in Touch with Us
       </h1>
-      <div className="flex flex-wrap md:flex-nowrap justify-between">
-        <section className="w-full py-16  px-4 flex items-center">
-          <div className="max-w-6xl mx-auto text-center">
-            <h2 className="text-4xl font-bold mb-8">Get in Touch with Us</h2>
+      <div className="flex flex-wrap justify-center items-stretch md:flex-nowrap ">
+        <section className="w-full py-8 px-4 flex justify-center">
+          <div className="w-full max-w-lg p-8 rounded shadow-md  border border-white text-center">
             <p className="text-xl max-w-3xl mx-auto mb-8">
               Have a question, suggestion, or just want to say hello? We&apos;d
               love to hear from you! Reach out to us:
@@ -68,7 +67,7 @@ function ContactUs() {
         <section className="py-8 px-4 w-full flex flex-col items-center">
           <form
             onSubmit={handleSubmit(onSubmit)}
-            className=" p-8 rounded shadow-md w-full max-w-lg  border border-white"
+            className="w-full max-w-lg p-8 rounded shadow-md  border border-white"
           >
             <div className="mb-6">
               <label
