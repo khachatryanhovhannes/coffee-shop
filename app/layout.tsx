@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
 import "./globals.css";
 import { Footer, Nav } from "@/components";
+import Head from "next/head";
 
 const urbanist = Urbanist({
   weight: "400",
@@ -9,9 +10,9 @@ const urbanist = Urbanist({
 });
 
 export const metadata: Metadata = {
-  title: "Coffee Shop",
+  title: "SipSpot Café",
   description:
-    "At Coffee Shop, we believe that every great day starts with a perfect cup of coffee.",
+    "At SipSpot Café, we believe that every great day starts with a perfect cup of coffee.",
 };
 
 export default function RootLayout({
@@ -21,6 +22,28 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Head>
+        <Head>
+          <meta
+            name="description"
+            content="At SipSpot Café, we believe that every great day starts with a perfect cup of coffee."
+          />
+          <meta
+            name="author"
+            content="Hovhannes Khachatryan & Gayane Harutyunyan"
+          />
+          <meta property="og:title" content="SipSpot Café" />
+          <meta
+            property="og:description"
+            content="At SipSpot Café, we believe that every great day starts with a perfect cup of coffee."
+          />
+          <meta property="og:image" content="../public/homeOne.jpeg" />
+          <meta
+            property="og:url"
+            content="https://coffee-shop-h.netlify.app/"
+          />
+        </Head>
+      </Head>
       <body className={urbanist.className}>
         <Nav />
         {children}
