@@ -1,5 +1,3 @@
-import image from "../../public/abuotBack.jpg";
-
 function AboutFistSection() {
   return (
     <section
