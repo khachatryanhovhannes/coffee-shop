@@ -37,7 +37,7 @@ export default function RootLayout({
         />
         <meta
           property="og:image"
-          content="https://i.pinimg.com/originals/71/1b/3e/711b3edbd2d17734549705a2a54a7d50.jpg"
+          content="https://japanesecoffeeco.com/cdn/shop/articles/Caffeine_and_Coffee_1.jpg"
         />
         <meta property="og:url" content="https://sipspot-cafe.netlify.app/" />
       </head>
